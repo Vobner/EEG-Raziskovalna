@@ -15,6 +15,3 @@ with open("D:\EEG Raziskovalna\Data\EEG_DE_features_csv\Participants_test.csv", 
 
         
 
-
-
-        
